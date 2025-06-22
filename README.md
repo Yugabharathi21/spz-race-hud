@@ -22,7 +22,7 @@ A customizable racing heads-up display resource for FiveM that shows vehicle spe
 
 ### Step 1: Clone or Download
 ```bash
-git clone https://github.com/yourusername/spz-race-hud.git
+git clone https://github.com/Yugabharathi21/spz-race-hud.git
 ```
 Or download as ZIP and extract to your resources folder.
 
@@ -166,4 +166,4 @@ Developed by S P i c e Z [ 🧊 ]
 
 ## Support
 
-For issues, questions, or feature requests, please [open an issue](https://github.com/yourusername/spz-race-hud/issues) on GitHub.
+For issues, questions, or feature requests, please [open an issue](https://github.com/Yugabharathi21/spz-race-hud/issues) on GitHub.
