@@ -130,4 +130,19 @@ To add new HUD elements:
 2. Add the data handling in the `handleMessage` function
 3. Add new UI elements to the JSX in the return statement
 4. Add CSS styles for the new elements
-```
+
+## Troubleshooting
+
+### Common Issues
+
+- **White Screen**: Check browser console for JavaScript errors
+- **No Data**: Verify the Lua script is sending data properly
+- **Style Issues**: Check for CSS conflicts or browser compatibility issues
+
+## Contributing
+
+When contributing to the UI:
+
+1. Follow the existing code style
+2. Test in both development and production modes
+3. Ensure compatibility with different screen resolutions
